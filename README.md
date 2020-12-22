@@ -79,21 +79,6 @@ display(
 ### Complete dataset view
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -395,22 +380,6 @@ display(
 
 ### Number of samples per label and hand
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -605,21 +574,6 @@ There are 27 categories with a minimum of 201 samples for the right hand,
                 the training set has 4617 samples and the test set has 810 samples:
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -664,8 +618,7 @@ This section is optional. The following blocks can be used to compare different 
 
 **[Open in Google Colab for details.](https://colab.research.google.com/github/ArthurFDLR/OpenHand-Models/blob/main/OpenHand-Models.ipynb)**
     
-![png](OpenHand-Models_files/OpenHand-Models_15_1.png)
-    
+![png](./OpenHand-Models_files/OpenHand-Models_15_1.png)
 
 
 ## Model export
